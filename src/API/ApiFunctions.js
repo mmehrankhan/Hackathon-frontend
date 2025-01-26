@@ -8,7 +8,7 @@ const registerRoute = "http://localhost:5000/auth/register";
 /**
  * Sign in with email and password
  * @param {string} email - The email address of the user.
- * @param {string} password - The password of the user.
+ * @param {string} password - The password of the user.   
  * @returns {Promise<object>} - The response data from the API.
  * @throws {Error} - If the API call fails or returns an error.
  */
